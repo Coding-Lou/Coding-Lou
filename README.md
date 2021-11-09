@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-Ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Ureylou@gmail.com)](mailto:Ureylou@gmail.com)
 ---
-<img align="right" alt="GIF" src="src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif?cid=790b76112fbd98c6e89c75ec0ec6d02dc1d0aa612680ecf7&rid=giphy.gif" />
+<img align="right" alt="GIF" src="src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" />
 
 ### I'm Urey Lou
 
