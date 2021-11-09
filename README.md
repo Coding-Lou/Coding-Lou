@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hello GitHub Fans 👋
-[![Mail Badge](https://img.shields.io/badge/-ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ureylou@gmail.com)](mailto:ureylou@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ureylou@gmail.com)](mailto:Ureylou@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://giphy.com/gifs/squid-game-squidgame-squidgames-8JCOK5E58CPxGfVJry" />
 
