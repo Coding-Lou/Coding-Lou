@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌱 I’m currently learning 
+## 👋 Hi there I'm Ureylou 娄嘉宇
 [![Mail Badge](https://img.shields.io/badge/-Ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Ureylou@gmail.com)](mailto:Ureylou@gmail.com)
 ![LinkedIn](https://img.shields.io/badge/-Ureylou-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.cn/in/urey-lou-58a485129/)
 
 
+> ***TRY HARDER !!!*** 
+
 ---
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" />
 
-### I'm Urey Lou
+### Urey Lou
 
 - A Cyber Security Engineer. & Open Source enthusiast.
 - 🌱 Currently working in Shanghai, China.
@@ -62,6 +64,4 @@ Here are some ideas to get you started:
 - [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 -->
-
-> ***TRY HARDER ***
 
