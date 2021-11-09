@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-Ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Ureylou@gmail.com)](mailto:Ureylou@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://giphy.com/gifs/squid-game-squidgame-squidgames-8JCOK5E58CPxGfVJry" />
+<img align="right" alt="GIF" src="src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif?cid=790b76112fbd98c6e89c75ec0ec6d02dc1d0aa612680ecf7&rid=giphy.gif" />
 
 ### I'm Urey Lou
 
 - A Cyber Security Engineer. & Open Source enthusiast.
 - 🌱 Currently working in Shanghai, China.
-- 💬 Ask me about Penetration Test and my projects on [ureylou@gmail.com](mailto:ureylou@gmail.com)
+- 💬 Ask me about Penetration Test and my projects on [Ureylou@gmail.com](mailto:Ureylou@gmail.com)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
