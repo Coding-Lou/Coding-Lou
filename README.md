@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ureylou@gmail.com)](mailto:ureylou@gmail.com)
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/squid-game-squidgame-squidgames-8JCOK5E58CPxGfVJry" />
 
-### I'm Siwei Zhou
+### I'm Urey Lou
 
 - A Cyber Security Engineer. & Open Source enthusiast.
 - 🌱 Currently working in Shanghai, China.
