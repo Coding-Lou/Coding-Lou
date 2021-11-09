@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Penetration Test and my projects on [Ureylou@gmail.com](mailto:Ureylou@gmail.com)
 - ⚡ Fun fact: Data Analysis📊
 
+[![UreyLou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ureylou666)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
@@ -40,8 +42,6 @@ Here are some ideas to get you started:
 - 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
-[![UreyLou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ureylou666)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### 开源项目
