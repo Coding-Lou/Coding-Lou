@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+https://github-readme-stats.vercel.app/api/top-langs/?username={Ureylou666}
+
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
