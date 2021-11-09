@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-Ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Ureylou@gmail.com)](mailto:Ureylou@gmail.com)
+
 ---
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" />
 
@@ -27,6 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Data Analysis📊
 
 [![UreyLou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ureylou666)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ### 🛠 技术栈 | Tech Stack
 
