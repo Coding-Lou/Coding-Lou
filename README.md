@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](http://antzuhl.cn:4000/get/@Ureylou666.readme)
