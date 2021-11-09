@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ## Hello GitHub Fans 👋
 [![Mail Badge](https://img.shields.io/badge/-Ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Ureylou@gmail.com)](mailto:Ureylou@gmail.com)
+![LinkedIn](https://img.shields.io/badge/-Ureylou-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.cn/in/urey-lou-58a485129/)
+
 
 ---
 <img align="right" alt="GIF" src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" />
@@ -32,20 +34,18 @@ Here are some ideas to get you started:
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={Ureylou666}
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ureylou666)
 
-### 🛠 技术栈 | Tech Stack
+### 👩‍💻 技术栈 | Tech Stack
 
-- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+- 🛠 &#160; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
-- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
-- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
@@ -63,5 +63,5 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={Ureylou666}
 - [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 -->
 
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
+> ***TRY HARDER ***
 
