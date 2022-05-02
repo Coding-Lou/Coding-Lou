@@ -52,5 +52,8 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
+### Badge Earned
+![image](https://images.credential.net/badge/tiny/5if6s3pz_1651508352331_badge.png?raw=true)
+![image](https://images.credential.net/badge/tiny/mf1n996i_1651508536020_badge.png?raw=true)
 
 
