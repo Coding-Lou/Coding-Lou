@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Penetration Test and my projects on [Ureylou@gmail.com](mailto:Ureylou@gmail.com)
 - ⚡ Fun fact: Data Analysis📊
 
-[![UreyLou's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ureylou666)](https://github.com/anuraghazra/github-readme-stats)
+[![UreyLou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ureylou666)](https://github.com/anuraghazra/github-readme-stats))
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
