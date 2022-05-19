@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about Penetration Test and my projects on [Ureylou@gmail.com](mailto:Ureylou@gmail.com)
 - ⚡ Fun fact: Data Analysis📊
 
-[![UreyLou's GitHub stats](https://github-readme-stats-tau-tan.vercel.app/api?username=ureylou666)](https://github.com/anuraghazra/github-readme-stats)
+[![UreyLou's GitHub stats](https://github-readme-stats.vercel.app/api?username=ureylou666)]
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
-![Most Used Languages](https://github-readme-stats-tau-tan.vercel.app/api/top-langs/?username=Ureylou666)
+![Most Used Languages](https://github-readme-statsvercel.app/api/top-langs/?username=Ureylou666)
 
 ### 👩‍💻 技术栈 | Tech Stack
 
