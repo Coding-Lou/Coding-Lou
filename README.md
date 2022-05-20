@@ -1,18 +1,4 @@
-
-<!--
-**Ureylou666/Ureylou666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <img alt="GIF" src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" align="right" /> --> 
 
 ## 👋 Hi there I'm Ureylou 娄嘉宇
 [![Mail Badge](https://img.shields.io/badge/-Ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Ureylou@gmail.com)](mailto:Ureylou@gmail.com)
@@ -21,11 +7,9 @@ Here are some ideas to get you started:
 
 > ***TRY HARDER !!!*** 
 
-<img alt="GIF" src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" align="right" />
-
 ---
 
-### Urey Lou
+### Urey Lou 
 
 - A Cyber Security Engineer. & Open Source enthusiast.
 - 🌱 Currently working in Shanghai, China.
