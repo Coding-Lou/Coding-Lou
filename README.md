@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 > ***TRY HARDER !!!*** 
 
+<img alt="GIF" src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" align="right" />
+
 ---
-<img align="right" alt="GIF" src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" />
 
 ### Urey Lou
 
