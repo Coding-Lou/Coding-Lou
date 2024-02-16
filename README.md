@@ -1,6 +1,6 @@
 <!-- <img alt="GIF" src="https://media1.giphy.com/media/8JCOK5E58CPxGfVJry/giphy.gif" align="right" /> --> 
 
-## 👋 Hi there I'm Ureylou 娄嘉宇
+## 👋 Hi there I'm Ureylou | Jiayu Lou | 娄嘉宇
 [![Mail Badge](https://img.shields.io/badge/-Ureylou@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:Ureylou@gmail.com)](mailto:Ureylou@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Ureylou-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.cn/in/urey-lou-58a485129)
 
@@ -11,11 +11,10 @@
 
 ### Urey Lou 
 
-- A Cyber Security Engineer. & Open Source enthusiast.
+- Software Developer && Cyber Security Engineer.
 - 🌱 Currently working in Shanghai, China.
-- 💬 Ask me about Penetration Test and my projects on [Ureylou@gmail.com](mailto:Ureylou@gmail.com)
-- ⚡ Fun fact: Data Analysis📊
-
+- 📝 [Personal Blog](https://ureylou.com): Leetcode / Plog / Treking / Cycling / Traveling etc. 
+- 📮 Ask me anything on [Ureylou@gmail.com](mailto:Ureylou@gmail.com)
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
@@ -23,10 +22,11 @@
 
 ### 👩‍💻 技术栈 | Tech Stack
 
-- 🛠 &#160; ![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+- 🛠 &#160;![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
 - 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
