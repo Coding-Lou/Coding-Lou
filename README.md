@@ -11,8 +11,9 @@
 
 ### Urey Lou 
 
-- Software Developer && Cyber Security Engineer.
-- 🌱 Currently working in Shanghai, China.
+I am a dedicated Software Engineer pursuing my second degree in Computer Science, driven by a strong curiosity about emerging technologies. With prior experience as a Cyber Engineer, I developed a deep understanding of security principles and system architecture. Now, I am shifting my focus to creating secure and clean code to deliver robust and scalable software solutions.
+
+- 🌱 Currently living in Vancouver, Canada.
 - 📝 [Personal Blog](https://jiayulou.com): Leetcode / Plog / Treking / Cycling / Traveling etc. 
 - 📮 Ask me anything on [Ureylou@gmail.com](mailto:Ureylou@gmail.com)
 
