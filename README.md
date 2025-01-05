@@ -13,7 +13,7 @@
 
 - Software Developer && Cyber Security Engineer.
 - 🌱 Currently working in Shanghai, China.
-- 📝 [Personal Blog](https://ureylou.com): Leetcode / Plog / Treking / Cycling / Traveling etc. 
+- 📝 [Personal Blog](https://jiayulou.com): Leetcode / Plog / Treking / Cycling / Traveling etc. 
 - 📮 Ask me anything on [Ureylou@gmail.com](mailto:Ureylou@gmail.com)
 
 <!--START_SECTION:badges-->
@@ -27,8 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+- 🌐 &#160;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
 - 🔧 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
