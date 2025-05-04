@@ -9,7 +9,7 @@
 
 ---
 
-### Urey Lou 
+### Jiayu Lou
 
 I am a dedicated Software Engineer pursuing my second degree in Computer Science, driven by a strong curiosity about emerging technologies. With prior experience as a Cyber Engineer, I developed a deep understanding of security principles and system architecture. Now, I am shifting my focus to creating secure and clean code to deliver robust and scalable software solutions.
 
