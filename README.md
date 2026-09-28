@@ -36,8 +36,6 @@ I am a dedicated Software Engineer pursuing my second degree in Computer Science
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### Badge Earned
-## Certifications
-
 <p align="left">
   <img src="https://images.credential.net/badge/tiny/5if6s3pz_1651508352331_badge.png?raw=true" height="85" alt="OSEP" />
   &nbsp;&nbsp;&nbsp;
