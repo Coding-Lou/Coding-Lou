@@ -38,5 +38,6 @@ I am a dedicated Software Engineer pursuing my second degree in Computer Science
 ### Badge Earned
 ![image](https://images.credential.net/badge/tiny/5if6s3pz_1651508352331_badge.png?raw=true)
 ![image](https://images.credential.net/badge/tiny/mf1n996i_1651508536020_badge.png?raw=true)
+![image](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
 
