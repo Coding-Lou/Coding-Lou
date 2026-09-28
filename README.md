@@ -36,8 +36,14 @@ I am a dedicated Software Engineer pursuing my second degree in Computer Science
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
 ### Badge Earned
-![image](https://images.credential.net/badge/tiny/5if6s3pz_1651508352331_badge.png?raw=true)
-![image](https://images.credential.net/badge/tiny/mf1n996i_1651508536020_badge.png?raw=true)
-![image](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+## Certifications
+
+<p align="left">
+  <img src="https://images.credential.net/badge/tiny/5if6s3pz_1651508352331_badge.png?raw=true" height="85" alt="OSEP" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.credential.net/badge/tiny/mf1n996i_1651508536020_badge.png?raw=true" height="85" alt="OSCP" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" height="85" alt="AWS Certified Solutions Architect – Associate" />
+</p>
 
 
